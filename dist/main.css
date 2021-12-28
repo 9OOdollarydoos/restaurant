@@ -1,0 +1,17 @@
+.panel {
+  background: grey;
+  margin: auto;
+  width: 50%;
+  margin-top: 50px;
+  padding: 30px;
+}
+
+.background-img {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+}
