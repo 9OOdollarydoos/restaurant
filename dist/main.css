@@ -6,6 +6,14 @@
   padding: 30px;
 }
 
+.header {
+  background: grey;
+  margin: auto;
+  width: 50%;
+  margin-top: 50px;
+  padding: 30px;
+}
+
 .background-img {
   position: fixed;
   top: 0;
